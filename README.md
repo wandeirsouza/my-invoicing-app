@@ -1,8 +1,6 @@
 # Full Stack Invoice App with Next.js 15, Clerk, & Xata
 
-📺 YouTube: 
-
-🚀 Demo: 
+📺 YouTube: https://www.youtube.com/watch?v=Mcw8Mp8PYUE
 
 ## More tutorials and walkthroughs
 
