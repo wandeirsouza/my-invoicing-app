@@ -1,5 +1,5 @@
 {
-  "name": "my-invoicing-app",
+  "name": "my-invoicing-app", 
   "version": "0.1.0",
   "private": true,
   "scripts": {
